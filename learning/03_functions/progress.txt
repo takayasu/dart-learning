@@ -1,0 +1,8 @@
+module=03_functions
+status=review_pending
+concepts=named_params,arrow_fn,higher_order,closure,generics
+self_score=
+compile_ok=
+tests_passed=
+last_error=
+next_focus=テストを全部パスさせて self_score と last_error を記入してください

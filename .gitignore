@@ -2,8 +2,8 @@
 # Created by `dart pub`
 .dart_tool/
 
-# Local learning outputs
-learning/
+# Local learning outputs — answer files stay local, coach files are tracked
+learning/**/answer.dart
 
 # Local editor settings
 .vscode/
